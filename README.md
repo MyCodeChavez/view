@@ -44,6 +44,6 @@ Para que una tarea o mejora se considere completada en este proyecto, debe cumpl
 6.  **Experiencia de Usuario (UX)**: La interactividad debe ser fluida y no entorpecer la navegación.
 
 ---
-Hecho con ⚡ por [MyCodeChavez](https://github.com/MyCodeChavez)
+Hecho con ⚡ por [Code-Chavez](https://github.com/Code-Chavez)
 
-**Rama de Desarrollo**: [View/develop](https://github.com/MyCodeChavez/View/tree/develop)
+**Rama de Desarrollo**: [View/develop](https://github.com/Code-Chavez/View/tree/develop)
